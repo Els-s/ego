@@ -1,0 +1,1241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b480b297-6ae7-406b-96dd-9e37456c0fa3" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/ego-common/target/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/ego-manager/target/" />
+    <ignored path="$PROJECT_DIR$/ego-manager/ego-manager-pojo/target/" />
+    <ignored path="$PROJECT_DIR$/ego-manager/ego-manager-mapper/target/" />
+    <ignored path="$PROJECT_DIR$/ego-manager/ego-manager-service/target/" />
+    <ignored path="$PROJECT_DIR$/ego-manager/ego-manager-web/target/" />
+    <ignored path="$PROJECT_DIR$/ego-rest/target/" />
+    <ignored path="$PROJECT_DIR$/ego-portal/target/" />
+    <ignored path="$PROJECT_DIR$/ego-eureka/target/" />
+    <ignored path="$PROJECT_DIR$/ego-search/target/" />
+    <ignored path="$PROJECT_DIR$/ego-sso/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="LoginFilter.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ego-sso/src/main/java/org/javaboy/egosso/LoginFilter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1078">
+              <caret line="66" column="65" selection-start-line="66" selection-start-column="53" selection-end-line="66" selection-end-column="65" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CheckTokenFilter.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ego-sso/src/main/java/org/javaboy/egosso/CheckTokenFilter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="166">
+              <caret line="35" column="131" lean-forward="true" selection-start-line="35" selection-start-column="131" selection-end-line="35" selection-end-column="131" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EgoSearchApplication.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ego-search/src/main/java/org/javaboy/egosearch/EgoSearchApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="11" column="10" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+              <folding>
+                <element signature="e#366#367#0" expanded="true" />
+                <element signature="e#437#438#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SearchService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ego-search/src/main/java/org/javaboy/egosearch/service/SearchService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="449">
+              <caret line="29" selection-start-line="29" selection-end-line="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SearchDao.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ego-search/src/main/java/org/javaboy/egosearch/dao/SearchDao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-292">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SearchResult.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ego-manager/ego-manager-pojo/src/main/java/org/javaboy/ego/manager/pojo/SearchResult.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+              <folding>
+                <element signature="e#250#251#0" expanded="true" />
+                <element signature="e#284#285#0" expanded="true" />
+                <element signature="e#336#337#0" expanded="true" />
+                <element signature="e#382#383#0" expanded="true" />
+                <element signature="e#423#424#0" expanded="true" />
+                <element signature="e#454#455#0" expanded="true" />
+                <element signature="e#508#509#0" expanded="true" />
+                <element signature="e#548#549#0" expanded="true" />
+                <element signature="e#585#586#0" expanded="true" />
+                <element signature="e#617#618#0" expanded="true" />
+                <element signature="e#668#669#0" expanded="true" />
+                <element signature="e#710#711#0" expanded="true" />
+                <element signature="e#745#746#0" expanded="true" />
+                <element signature="e#775#776#0" expanded="true" />
+                <element signature="e#822#823#0" expanded="true" />
+                <element signature="e#860#861#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ego-search/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SearchController.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ego-search/src/main/java/org/javaboy/egosearch/controller/SearchController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="273">
+              <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SecurityConfig.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ego-sso/src/main/java/org/javaboy/egosso/SecurityConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="946">
+              <caret line="51" column="9" selection-start-line="51" selection-start-column="9" selection-end-line="51" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EgoSsoApplication.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ego-sso/src/main/java/org/javaboy/egosso/EgoSsoApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="9" column="44" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
+              <folding>
+                <element signature="e#250#251#0" expanded="true" />
+                <element signature="e#318#319#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>/item/all</find>
+      <find>/item</find>
+      <find>n</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>name</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ego-manager/ego-manager-web/src/main/java/org/javaboy/ego/manager/web/TbItemController.java" />
+        <option value="$PROJECT_DIR$/ego-manager/ego-manager-service/src/main/java/org/javaboy/ego/manager/service/TbItemService.java" />
+        <option value="$PROJECT_DIR$/ego-portal/src/main/java/org/javaboy/egoportal/config/WebMvcConfig.java" />
+        <option value="$PROJECT_DIR$/ego-rest/src/main/java/org/javaboy/egorest/model/ItemCatResult.java" />
+        <option value="$PROJECT_DIR$/ego-rest/src/main/java/org/javaboy/egorest/service/ItemCatService.java" />
+        <option value="$PROJECT_DIR$/ego-rest/src/main/java/org/javaboy/egorest/EgoRestApplication.java" />
+        <option value="$PROJECT_DIR$/ego-rest/src/main/java/org/javaboy/egorest/config/JsonpAdvice.java" />
+        <option value="$PROJECT_DIR$/ego-rest/src/main/java/org/javaboy/egorest/model/ItemCat.java" />
+        <option value="$PROJECT_DIR$/ego-rest/src/main/java/org/javaboy/egorest/controller/ItemCatController.java" />
+        <option value="$PROJECT_DIR$/ego-manager/ego-manager-mapper/src/main/java/org/javaboy/ego/manager/mapper/TbContentCategoryMapper.java" />
+        <option value="$PROJECT_DIR$/ego-manager/ego-manager-web/src/main/java/org/javaboy/ego/manager/web/TbContentController.java" />
+        <option value="$PROJECT_DIR$/ego-manager/ego-manager-service/src/main/java/org/javaboy/ego/manager/service/TbContentService.java" />
+        <option value="$PROJECT_DIR$/ego-manager/ego-manager-web/src/main/webapp/jsp/content-category.jsp" />
+        <option value="$PROJECT_DIR$/ego-manager/ego-manager-web/src/main/java/org/javaboy/ego/manager/web/ContentCategoryController.java" />
+        <option value="$PROJECT_DIR$/ego-manager/ego-manager-mapper/src/main/java/org/javaboy/ego/manager/mapper/TbContentCategoryMapper.xml" />
+        <option value="$PROJECT_DIR$/ego-manager/ego-manager-service/src/main/java/org/javaboy/ego/manager/service/TbContentCategoryService.java" />
+        <option value="$PROJECT_DIR$/ego-common/src/main/java/org/javaboy/commons/RespBean.java" />
+        <option value="$PROJECT_DIR$/ego-eureka/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/ego-rest/src/main/java/org/javaboy/egorest/controller/AdController.java" />
+        <option value="$PROJECT_DIR$/ego-portal/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/ego-portal/src/main/java/org/javaboy/egoportal/EgoPortalApplication.java" />
+        <option value="$PROJECT_DIR$/ego-eureka/src/main/java/org/javaboy/egoeureka/EgoEurekaApplication.java" />
+        <option value="$PROJECT_DIR$/ego-manager/ego-manager-mapper/src/main/java/org/javaboy/ego/manager/mapper/TbContentMapper.xml" />
+        <option value="$PROJECT_DIR$/ego-manager/ego-manager-mapper/src/main/java/org/javaboy/ego/manager/mapper/TbContentMapper.java" />
+        <option value="$PROJECT_DIR$/ego-portal/src/main/java/org/javaboy/egoportal/feign/AdFeign.java" />
+        <option value="$PROJECT_DIR$/ego-rest/pom.xml" />
+        <option value="$PROJECT_DIR$/ego-rest/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/ego-manager/ego-manager-pojo/src/main/java/org/javaboy/ego/manager/pojo/TbContent.java" />
+        <option value="$PROJECT_DIR$/ego-rest/src/main/java/org/javaboy/egorest/service/AdService.java" />
+        <option value="$PROJECT_DIR$/ego-common/src/main/java/org/javaboy/commons/AdItem.java" />
+        <option value="$PROJECT_DIR$/ego-search/pom.xml" />
+        <option value="$PROJECT_DIR$/ego-search/src/main/java/org/javaboy/egosearch/EgoSearchApplication.java" />
+        <option value="$PROJECT_DIR$/ego-manager/ego-manager-mapper/src/main/java/org/javaboy/ego/manager/mapper/TbItemMapper.xml" />
+        <option value="$PROJECT_DIR$/ego-search/src/test/java/org/javaboy/egosearch/EgoSearchApplicationTests.java" />
+        <option value="$PROJECT_DIR$/ego-search/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/ego-common/src/main/java/org/javaboy/commons/SearchResult.java" />
+        <option value="$PROJECT_DIR$/ego-manager/ego-manager-pojo/src/main/java/org/javaboy/ego/manager/pojo/SearchResult.java" />
+        <option value="$PROJECT_DIR$/ego-search/src/main/java/org/javaboy/egosearch/service/SearchService.java" />
+        <option value="$PROJECT_DIR$/ego-portal/pom.xml" />
+        <option value="$PROJECT_DIR$/ego-portal/src/main/java/org/javaboy/egoportal/feign/SearchFeign.java" />
+        <option value="$PROJECT_DIR$/ego-search/src/main/java/org/javaboy/egosearch/dao/SearchDao.java" />
+        <option value="$PROJECT_DIR$/ego-portal/src/main/java/org/javaboy/egoportal/IndexController.java" />
+        <option value="$PROJECT_DIR$/ego-portal/src/main/webapp/jsp/search.jsp" />
+        <option value="$PROJECT_DIR$/ego-sso/pom.xml" />
+        <option value="$PROJECT_DIR$/ego-sso/src/main/java/org/javaboy/egosso/User.java" />
+        <option value="$PROJECT_DIR$/ego-sso/src/main/java/org/javaboy/egosso/HelloController.java" />
+        <option value="$PROJECT_DIR$/ego-sso/src/main/java/org/javaboy/egosso/LoginFilter.java" />
+        <option value="$PROJECT_DIR$/ego-sso/src/test/java/org/javaboy/egosso/EgoSsoApplicationTests.java" />
+        <option value="$PROJECT_DIR$/ego-sso/src/main/java/org/javaboy/egosso/SecurityConfig.java" />
+        <option value="$PROJECT_DIR$/ego-sso/src/main/java/org/javaboy/egosso/CheckTokenFilter.java" />
+        <option value="$PROJECT_DIR$/ego-search/src/main/java/org/javaboy/egosearch/controller/SearchController.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="ego-manager-web" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="ego-manager-web" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="508" />
+    <option name="y" value="30" />
+    <option name="width" value="1366" />
+    <option name="height" value="768" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ego" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ego" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ego-portal/src/main" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\workspace4\6.ego\code\ego\ego-portal\src\main\webapp" />
+      <recent name="F:\workspace4\6.ego\code\ego\ego-manager\ego-manager-web\src\main\java\org\javaboy\ego\manager\web\utils" />
+      <recent name="F:\workspace4\6.ego\code\ego\ego-manager\ego-manager-pojo\src\main\java\org\javaboy\ego\manager\pojo" />
+      <recent name="F:\workspace4\6.ego\code\ego\ego-manager\ego-manager-mapper\src\main\java\org\javaboy\ego\manager\mapper" />
+      <recent name="F:\workspace4\6.ego\code\ego\ego-manager\ego-manager-web\src\main\webapp" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.EgoSearchApplication">
+    <configuration name="EgoManagerWebApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.javaboy.ego.manager.web.EgoManagerWebApplication" />
+      <module name="ego-manager-web" />
+      <option name="WORKING_DIRECTORY" value="file://$MODULE_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.javaboy.ego.manager.web.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="EgoManagerWebApplication" type="Application" factoryName="Application" singleton="true" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.javaboy.ego.manager.web.EgoManagerWebApplication" />
+      <module name="ego-manager-web" />
+      <option name="WORKING_DIRECTORY" value="file://$MODULE_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.javaboy.ego.manager.web.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="EgoManagerWebApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.javaboy.ego.manager.web.EgoManagerWebApplication" />
+      <module name="ego-manager-web" />
+      <option name="WORKING_DIRECTORY" value="file://$MODULE_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.javaboy.ego.manager.web.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="EgoPortalApplication" type="Application" factoryName="Application" singleton="true" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.javaboy.egoportal.EgoPortalApplication" />
+      <module name="ego-portal" />
+      <option name="WORKING_DIRECTORY" value="file://$MODULE_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.javaboy.egoportal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="EgoRestApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.javaboy.egorest.EgoRestApplication" />
+      <module name="ego-rest" />
+      <option name="WORKING_DIRECTORY" value="file://$MODULE_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.javaboy.egorest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="EgoSearchApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.javaboy.egosearch.EgoSearchApplication" />
+      <module name="ego-search" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.javaboy.egosearch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="EgoSsoApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.javaboy.egosso.EgoSsoApplication" />
+      <module name="ego-sso" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.javaboy.egosso.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="EgoSsoApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ego-sso" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.javaboy.egosso.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="org.javaboy.egosso" />
+      <option name="MAIN_CLASS_NAME" value="org.javaboy.egosso.EgoSsoApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="EgoEurekaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ego-eureka" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.javaboy.egoeureka.EgoEurekaApplication" />
+    </configuration>
+    <configuration name="EgoPortalApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ego-portal" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.javaboy.egoportal.EgoPortalApplication" />
+      <option name="WORKING_DIRECTORY" value="file://$MODULE_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.EgoEurekaApplication" />
+      <item itemvalue="Spring Boot.EgoPortalApplication" />
+      <item itemvalue="Application.EgoPortalApplication" />
+      <item itemvalue="Application.EgoRestApplication" />
+      <item itemvalue="Application.EgoSsoApplication" />
+      <item itemvalue="JUnit.EgoSsoApplicationTests.contextLoads" />
+      <item itemvalue="Application.EgoSearchApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.EgoSearchApplication" />
+        <item itemvalue="Application.EgoRestApplication" />
+        <item itemvalue="Application.EgoSsoApplication" />
+        <item itemvalue="JUnit.EgoSsoApplicationTests.contextLoads" />
+        <item itemvalue="Application.EgoPortalApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\sang\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b480b297-6ae7-406b-96dd-9e37456c0fa3" name="Default" comment="" />
+      <created>1573695213565</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573695213565</updated>
+      <workItem from="1573695215350" duration="5858000" />
+      <workItem from="1573711380150" duration="4514000" />
+      <workItem from="1573779741773" duration="6234000" />
+      <workItem from="1573789259089" duration="2661000" />
+      <workItem from="1573797764416" duration="6734000" />
+      <workItem from="1573860777420" duration="287000" />
+      <workItem from="1573866173194" duration="8705000" />
+      <workItem from="1573895550116" duration="598000" />
+      <workItem from="1574038813751" duration="11811000" />
+      <workItem from="1574125311584" duration="3141000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="EgoSearchApplicationTests_contextLoads - 2019.11.16 at 16h 37m 58s.xml">
+      <configuration name="EgoSearchApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EgoSsoApplicationTests_contextLoads - 2019.11.18 at 15h 40m 05s.xml">
+      <configuration name="EgoSsoApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="50543000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" weight="0.32980332" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="bottom" id="Docker" order="7" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.19292605" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.38424438" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="bottom" id="Java Enterprise" order="7" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.39067525" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21860817" />
+      <window_info anchor="right" id="Bean Validation" order="3" />
+      <window_info id="Web" order="2" side_tool="true" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329582" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info id="Image Layers" order="3" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.30707395" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.38424438" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="14" show_stripe_button="false" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.32980332" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3207262" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329582" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.20418006" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="5" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ego-manager/ego-manager-web/src/main/webapp/jsp/content-add.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-594" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ego-manager/ego-manager-web/src/main/webapp/css/ego.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="22" lean-forward="true" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ego-manager/ego-manager-web/src/main/webapp/jsp/content-category.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-836">
+          <caret line="6" column="51" selection-start-line="6" selection-start-column="48" selection-end-line="6" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ego-manager/ego-manager-web/src/main/java/org/javaboy/ego/manager/web/TbContentController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="44" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ego-manager/ego-manager-mapper/src/main/java/org/javaboy/ego/manager/mapper/TbContentCategoryMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="814">
+          <caret line="37" column="134" selection-start-line="37" selection-start-column="134" selection-end-line="37" selection-end-column="134" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ego-manager/ego-manager-pojo/src/main/java/org/javaboy/ego/manager/pojo/TbContentCategory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ego-manager/ego-manager-service/src/main/java/org/javaboy/ego/manager/service/TbContentCategoryService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="28" column="19" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ego-manager/ego-manager-web/src/main/java/org/javaboy/ego/manager/web/ContentCategoryController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="26" column="30" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ego-common/src/main/java/org/javaboy/commons/RespBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ego-eureka/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="40" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ego-eureka/HELP.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ego-eureka/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="17" column="40" lean-forward="true" selection-start-line="17" selection-start-column="40" selection-end-line="18" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ego-portal/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="34" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ego-eureka/src/main/java/org/javaboy/egoeureka/EgoEurekaApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="4" column="74" selection-start-line="4" selection-start-column="74" selection-end-line="4" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ego-manager/ego-manager-mapper/src/main/java/org/javaboy/ego/manager/mapper/TbContentMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="17" column="14" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ego-manager/ego-manager-mapper/src/main/java/org/javaboy/ego/manager/mapper/TbContentMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="22" column="136" selection-start-line="22" selection-start-column="136" selection-end-line="22" selection-end-column="136" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ego-rest/src/main/java/org/javaboy/egorest/controller/ItemCatController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ego-portal/src/main/java/org/javaboy/egoportal/feign/AdFeign.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="12" column="36" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ego-manager/ego-manager-pojo/src/main/java/org/javaboy/ego/manager/pojo/TbContent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="5" column="46" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ego-common/src/main/java/org/javaboy/commons/AdItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="4" column="43" selection-start-line="4" selection-start-column="43" selection-end-line="4" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ego-rest/src/main/java/org/javaboy/egorest/controller/AdController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="18" column="15" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ego-rest/src/main/java/org/javaboy/egorest/service/AdService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="31" column="41" selection-start-line="31" selection-start-column="41" selection-end-line="31" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ego-rest/src/main/java/org/javaboy/egorest/service/ItemCatService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="17" column="58" selection-start-line="17" selection-start-column="58" selection-end-line="17" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ego-manager/ego-manager-mapper/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-330" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ego-rest/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="30" column="21" selection-start-line="26" selection-start-column="2" selection-end-line="30" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ego-rest/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" selection-start-line="3" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ego-manager/ego-manager-mapper/src/main/java/org/javaboy/ego/manager/mapper/TbItemMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ego-search/src/test/java/org/javaboy/egosearch/EgoSearchApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="26" column="28" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ego-search/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="34" column="21" selection-start-line="34" selection-start-column="21" selection-end-line="39" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ego-portal/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="32" column="40" selection-start-line="32" selection-start-column="40" selection-end-line="32" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ego-portal/src/main/java/org/javaboy/egoportal/feign/SearchFeign.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ego-rest/src/main/java/org/javaboy/egorest/EgoRestApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="44" lean-forward="true" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ego-portal/src/main/java/org/javaboy/egoportal/EgoPortalApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="4" column="62" lean-forward="true" selection-start-line="4" selection-start-column="62" selection-end-line="4" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ego-portal/src/main/java/org/javaboy/egoportal/IndexController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="29" column="46" selection-start-line="29" selection-start-column="35" selection-end-line="29" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ego-manager/ego-manager-pojo/src/main/java/org/javaboy/ego/manager/pojo/TbItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="17" column="24" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ego-portal/src/main/webapp/jsp/search.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="49" column="21" lean-forward="true" selection-start-line="49" selection-start-column="21" selection-end-line="49" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ego-sso/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="726">
+          <caret line="33" column="21" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ego-sso/src/main/java/org/javaboy/egosso/HelloController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/org.springframework.security.web.authentication.AbstractAuthenticationProcessingFilter">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>org.springframework.security.web.authentication.AbstractAuthenticationProcessingFilter</OriginalElement>
+          <nodes>
+            <node x="1329.0" y="91.0">org.springframework.context.ApplicationEventPublisherAware</node>
+            <node x="356.0000000000001" y="91.0">org.springframework.web.context.ServletContextAware</node>
+            <node x="1132.0" y="91.0">org.springframework.context.MessageSourceAware</node>
+            <node x="649.456507936508" y="0.0">org.springframework.beans.factory.Aware</node>
+            <node x="881.0000000000001" y="91.0">org.springframework.beans.factory.InitializingBean</node>
+            <node x="1079.6303174603177" y="344.0">org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter</node>
+            <node x="1081.6303174603177" y="263.0">org.springframework.security.web.authentication.AbstractAuthenticationProcessingFilter</node>
+            <node x="543.0000000000001" y="91.0">org.springframework.context.EnvironmentAware</node>
+            <node x="0.0" y="91.0">org.springframework.core.env.EnvironmentCapable</node>
+            <node x="542.1303174603175" y="182.0">org.springframework.web.filter.GenericFilterBean</node>
+            <node x="719.0000000000001" y="91.0">org.springframework.beans.factory.DisposableBean</node>
+            <node x="1036.0" y="91.0">javax.servlet.Filter</node>
+            <node x="188.0" y="91.0">org.springframework.beans.factory.BeanNameAware</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="org.springframework.web.filter.GenericFilterBean" target="javax.servlet.Filter">
+              <point x="63.85714285714289" y="-15.5" />
+              <point x="680.4874603174604" y="162.0" />
+              <point x="1074.0" y="162.0" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="org.springframework.web.filter.GenericFilterBean" target="org.springframework.beans.factory.InitializingBean">
+              <point x="42.571428571428555" y="-15.5" />
+              <point x="659.2017460317461" y="152.0" />
+              <point x="948.5000000000001" y="152.0" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="org.springframework.web.filter.GenericFilterBean" target="org.springframework.beans.factory.DisposableBean">
+              <point x="21.28571428571422" y="-15.5" />
+              <point x="637.9160317460318" y="142.0" />
+              <point x="790.0000000000001" y="142.0" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="org.springframework.security.web.authentication.AbstractAuthenticationProcessingFilter" target="org.springframework.context.MessageSourceAware">
+              <point x="0.0" y="-15.5" />
+              <point x="1216.1303174603177" y="238.0" />
+              <point x="1220.5" y="238.0" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="org.springframework.web.filter.GenericFilterBean" target="org.springframework.web.context.ServletContextAware">
+              <point x="-21.285714285714334" y="-15.5" />
+              <point x="595.3446031746032" y="142.0" />
+              <point x="439.5000000000001" y="142.0" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="org.springframework.security.web.authentication.AbstractAuthenticationProcessingFilter" target="org.springframework.context.ApplicationEventPublisherAware">
+              <point x="89.66666666666674" y="-15.5" />
+              <point x="1305.7969841269842" y="238.0" />
+              <point x="1445.5" y="238.0" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="org.springframework.context.MessageSourceAware" target="org.springframework.beans.factory.Aware">
+              <point x="0.0" y="-15.5" />
+              <point x="1220.5" y="71.0" />
+              <point x="708.256507936508" y="71.0" />
+              <point x="16.799999999999955" y="15.5" />
+            </edge>
+            <edge source="org.springframework.security.web.authentication.AbstractAuthenticationProcessingFilter" target="org.springframework.web.filter.GenericFilterBean">
+              <point x="-89.66666666666674" y="-15.5" />
+              <point x="1126.4636507936507" y="238.0" />
+              <point x="616.6303174603175" y="238.0" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="org.springframework.context.ApplicationEventPublisherAware" target="org.springframework.beans.factory.Aware">
+              <point x="0.0" y="-15.5" />
+              <point x="1445.5" y="61.0" />
+              <point x="725.0565079365081" y="61.0" />
+              <point x="33.60000000000002" y="15.5" />
+            </edge>
+            <edge source="org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter" target="org.springframework.security.web.authentication.AbstractAuthenticationProcessingFilter">
+              <point x="0.0" y="-15.5" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="org.springframework.beans.factory.BeanNameAware" target="org.springframework.beans.factory.Aware">
+              <point x="0.0" y="-15.5" />
+              <point x="262.0" y="51.0" />
+              <point x="657.856507936508" y="51.0" />
+              <point x="-33.60000000000002" y="15.5" />
+            </edge>
+            <edge source="org.springframework.web.filter.GenericFilterBean" target="org.springframework.context.EnvironmentAware">
+              <point x="0.0" y="-15.5" />
+              <point x="616.6303174603175" y="162.0" />
+              <point x="621.0000000000001" y="162.0" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="org.springframework.web.context.ServletContextAware" target="org.springframework.beans.factory.Aware">
+              <point x="0.0" y="-15.5" />
+              <point x="439.5000000000001" y="61.0" />
+              <point x="674.656507936508" y="61.0" />
+              <point x="-16.80000000000001" y="15.5" />
+            </edge>
+            <edge source="org.springframework.context.EnvironmentAware" target="org.springframework.beans.factory.Aware">
+              <point x="0.0" y="-15.5" />
+              <point x="621.0000000000001" y="71.0" />
+              <point x="691.456507936508" y="71.0" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="org.springframework.web.filter.GenericFilterBean" target="org.springframework.core.env.EnvironmentCapable">
+              <point x="-63.85714285714289" y="-15.5" />
+              <point x="552.7731746031747" y="162.0" />
+              <point x="84.0" y="162.0" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="org.springframework.web.filter.GenericFilterBean" target="org.springframework.beans.factory.BeanNameAware">
+              <point x="-42.571428571428555" y="-15.5" />
+              <point x="574.058888888889" y="152.0" />
+              <point x="262.0" y="152.0" />
+              <point x="0.0" y="15.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.3554993678887481" x="836.0" y="271.0" />
+          <SelectedNodes>
+            <node>org.springframework.security.web.authentication.AbstractAuthenticationProcessingFilter</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ego-sso/src/main/java/org/javaboy/egosso/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="39" column="19" selection-start-line="39" selection-start-column="19" selection-end-line="39" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#512#513#0" expanded="true" />
+            <element signature="e#558#559#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ego-sso/src/test/java/org/javaboy/egosso/EgoSsoApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="11" column="66" selection-start-line="11" selection-start-column="66" selection-end-line="11" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ego-sso/src/main/java/org/javaboy/egosso/SecurityConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="946">
+          <caret line="51" column="9" selection-start-line="51" selection-start-column="9" selection-end-line="51" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ego-sso/src/main/java/org/javaboy/egosso/EgoSsoApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="9" column="44" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
+          <folding>
+            <element signature="e#250#251#0" expanded="true" />
+            <element signature="e#318#319#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ego-sso/src/main/java/org/javaboy/egosso/LoginFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1078">
+          <caret line="66" column="65" selection-start-line="66" selection-start-column="53" selection-end-line="66" selection-end-column="65" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ego-sso/src/main/java/org/javaboy/egosso/CheckTokenFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="35" column="131" lean-forward="true" selection-start-line="35" selection-start-column="131" selection-end-line="35" selection-end-column="131" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ego-search/src/main/java/org/javaboy/egosearch/EgoSearchApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="11" column="10" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+          <folding>
+            <element signature="e#366#367#0" expanded="true" />
+            <element signature="e#437#438#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ego-search/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ego-manager/ego-manager-pojo/src/main/java/org/javaboy/ego/manager/pojo/SearchResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+          <folding>
+            <element signature="e#250#251#0" expanded="true" />
+            <element signature="e#284#285#0" expanded="true" />
+            <element signature="e#336#337#0" expanded="true" />
+            <element signature="e#382#383#0" expanded="true" />
+            <element signature="e#423#424#0" expanded="true" />
+            <element signature="e#454#455#0" expanded="true" />
+            <element signature="e#508#509#0" expanded="true" />
+            <element signature="e#548#549#0" expanded="true" />
+            <element signature="e#585#586#0" expanded="true" />
+            <element signature="e#617#618#0" expanded="true" />
+            <element signature="e#668#669#0" expanded="true" />
+            <element signature="e#710#711#0" expanded="true" />
+            <element signature="e#745#746#0" expanded="true" />
+            <element signature="e#775#776#0" expanded="true" />
+            <element signature="e#822#823#0" expanded="true" />
+            <element signature="e#860#861#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ego-search/src/main/java/org/javaboy/egosearch/dao/SearchDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-292">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ego-search/src/main/java/org/javaboy/egosearch/service/SearchService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="449">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ego-search/src/main/java/org/javaboy/egosearch/controller/SearchController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web|ego-portal</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.2.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

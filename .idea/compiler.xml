@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ego-common" />
+        <module name="ego-eureka" />
+        <module name="ego-manager-mapper" />
+        <module name="ego-manager-pojo" />
+        <module name="ego-manager-service" />
+        <module name="ego-manager-web" />
+        <module name="ego-portal" />
+        <module name="ego-rest" />
+        <module name="ego-search" />
+        <module name="ego-sso" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ego" target="1.5" />
+      <module name="ego-common" target="1.5" />
+      <module name="ego-eureka" target="1.8" />
+      <module name="ego-manager" target="1.5" />
+      <module name="ego-manager-mapper" target="1.5" />
+      <module name="ego-manager-pojo" target="1.5" />
+      <module name="ego-manager-service" target="1.5" />
+      <module name="ego-manager-web" target="1.8" />
+      <module name="ego-portal" target="1.8" />
+      <module name="ego-rest" target="1.8" />
+      <module name="ego-search" target="1.8" />
+      <module name="ego-sso" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

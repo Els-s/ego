@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/ego.iml" filepath="$PROJECT_DIR$/.idea/ego.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ego-common/ego-common.iml" filepath="$PROJECT_DIR$/ego-common/ego-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ego-eureka/ego-eureka.iml" filepath="$PROJECT_DIR$/ego-eureka/ego-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ego-manager/ego-manager.iml" filepath="$PROJECT_DIR$/ego-manager/ego-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ego-manager/ego-manager-mapper/ego-manager-mapper.iml" filepath="$PROJECT_DIR$/ego-manager/ego-manager-mapper/ego-manager-mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ego-manager/ego-manager-pojo/ego-manager-pojo.iml" filepath="$PROJECT_DIR$/ego-manager/ego-manager-pojo/ego-manager-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ego-manager/ego-manager-service/ego-manager-service.iml" filepath="$PROJECT_DIR$/ego-manager/ego-manager-service/ego-manager-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ego-manager/ego-manager-web/ego-manager-web.iml" filepath="$PROJECT_DIR$/ego-manager/ego-manager-web/ego-manager-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ego-portal/ego-portal.iml" filepath="$PROJECT_DIR$/ego-portal/ego-portal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ego-rest/ego-rest.iml" filepath="$PROJECT_DIR$/ego-rest/ego-rest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ego-search/ego-search.iml" filepath="$PROJECT_DIR$/ego-search/ego-search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ego-sso/ego-sso.iml" filepath="$PROJECT_DIR$/ego-sso/ego-sso.iml" />
+    </modules>
+  </component>
+</project>
